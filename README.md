@@ -1,6 +1,6 @@
 # Delpy
 
-Blockly on Jupyter Notebook with Python
+Blockly on Jupyter Notebook With Python
 
 ## Installation
 
@@ -10,7 +10,7 @@ jupyter nbextension install delpy --py --sys-prefix
 jupyter nbextension enable delpy --py --sys-prefix
 ```
 
-For developer:
+For developers:
 
 ```bash
 git clone https://github.com/gwangyi/delpy
